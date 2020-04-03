@@ -19,10 +19,17 @@ This repository review all of those drug and  examines the docking score between
 - Umifenovir
 # Ligand(Drug)-Protein Docking Pipeline
 This is the pipeline for checking dock score for each ligand (the molecule of drug ). In this case I use schrodinger software as pipeline base.
-- preparing ligand
-  - download 2D file of ligand (sdf format).
+- 1-preparing ligand
+  - download 2D file of ligand (sdf format). [from web site like drugbank](https://www.drugbank.ca/)
   - using LigPrep task for transfer 2D to 3D format with minimum energy.
   
-   [![PrepLig](https://img.youtube.com/vi/5vO88ui0JdM&t=1s/50.jpg)](https://www.youtube.com/watch?v=5vO88ui0JdM&t=1s)
+   [![Ligand Preparation with LigPrep](https://img.youtube.com/vi/5vO88ui0JdM/0.jpg)](https://www.youtube.com/watch?v=5vO88ui0JdM)
+- 2-preparing protein
+    - download protein pdb file ([protein data base](https://www.rcsb.org/)) 
+    - Protein prepare with tools like  Protein Preparation Wizard.
+  
+   [![Ligand Preparation with LigPrep](https://img.youtube.com/vi/YRFROyN88Fw/0.jpg)](https://www.youtube.com/watch?v=YRFROyN88Fw)
+- 3-Finding binding site
+ for using docking process we must find docking site where the ligand sit in it.
 
 
