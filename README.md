@@ -40,8 +40,8 @@ This is the pipeline for checking dock score for each ligand (the molecule of dr
   [![Grid Generation](https://img.youtube.com/vi/htoaov6bQlk/0.jpg)](https://www.youtube.com/watch?v=htoaov6bQlk)
 - **6-Viewing Results**
   - you can use any tools for viewing docking score or plot them.
- # Result of Corona virus drug
- After doing all the above process on these 13 drug we recived these Results as docking score(more negative is better) 
+ # Results
+ After doing all the above process on these 13 drug these  Results obtained for docking score(more negative is better) 
  |Rank|Drug Name|Docking Score|
  |:--:|:-------:|:-------:|
  |1|Remdesivir	|-9.34	|
@@ -68,8 +68,21 @@ In this section, all the drugs used to treat covid-19  disease are described (dr
 Remdesivir, or GS-5734, is an adenosine triphosphate analog first described in the literature in 2016 as a potential treatment for Ebola.1 In 2017, its activity against the coronavirus family of viruses was also demonstrated.Remdesivir is also being researched as a potential treatment to SARS-CoV2, the coronavirus responsible for COVID-19.
 - ## TMC310911
  ![](https://www.drugbank.ca/structures/DB15623/image.svg)
-  TMC-310911 (also known as ASC-09) is a novel investigational protease inhibitor (PI) that is structurally similar to the currently available darunavir.4 It is being investigated for use in HIV-1 infections. TMC-310911 has shown marked activity against a variety of HIV-1 strains, including multi-PI-resistant strains, and may be less likely to generate resistance, making it a potentially desirable therapy for both treatment-naive and PI-experienced patients.4,3
 
-TMC-310911 is currently being investigated, in combination with other HIV therapies and antivirals, as a potential treatment for COVID-19 caused by SARS-CoV-2.5
+  TMC-310911 (also known as ASC-09) is a novel investigational protease inhibitor (PI) that is structurally similar to the currently available darunavir. It is being investigated for use in HIV-1 infections. TMC-310911 has shown marked activity against a variety of HIV-1 strains, including multi-PI-resistant strains, and may be less likely to generate resistance, making it a potentially desirable therapy for both treatment-naive and PI-experienced patients.
+
+TMC-310911 is currently being investigated, in combination with other HIV therapies and antivirals, as a potential treatment for COVID-19 caused by SARS-CoV-2.
+- ## Ritonavir
+  ![](https://www.drugbank.ca/structures/DB00503/image.svg)
+
+  Ritonavir is an HIV protease inhibitor that interferes with the reproductive cycle of HIV. Although it was initially developed as an independent antiviral agent, it has been shown to possess advantageous properties in combination regimens with low-dose ritonavir and other protease inhibitors. It is now more commonly used as a booster of other protease inhibitors and is available in both liquid formulation and as capsules.
+
+While ritonavir is not an active antiviral agent against hepatitis C virus (HCV) infection, it is added in combination therapies indicated for treatment of HCV infections as a booster. Ritonavir is a potent CYP3A inhibitor that increases peak and trough plasma drug concentrations of other protease inhibitors such as Paritaprevir and overall drug exposure. American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) guidelines recommend ritonavir-boosted combination therapies as a first-line therapy for HCV Genotype 1a/b and 4 treatment-naïve patients with or without cirrhosis.
+
+Ritonavir is found in a fixed-dose combination product with Ombitasvir, Dasabuvir, and Paritaprevir as the FDA-approved product Viekira Pak. First approved in December 2014, Viekira Pak is indicated for the treatment of HCV genotype 1b without cirrhosis or with compensated cirrhosis, and when combined with Ribavirin for the treatment of HCV genotype 1a without cirrhosis or with compensated cirrhosis.
+
+Ritonavir is also available as a fixed-dose combination product with Ombitasvir and Paritaprevir as the FDA- and Health Canada-approved product Technivie. First approved in July 2015, Technivie is indicated in combination with Ribavirin for the treatment of patients with genotype 4 chronic hepatitis C virus (HCV) infection without cirrhosis or with compensated cirrhosis.
+
+In Canada, ritonavir is also available as a fixed-dose combination product with Ombitasvir, Dasabuvir, and Paritaprevir as the Health Canada-approved, commercially available product Holkira Pak. First approved in January 2015, Holkira Pak is indicated for the treatment of HCV genotype 1b with or without cirrhosis, and when combined with Ribavirin for the treatment of HCV genotype 1a with or without cirrhosis. Inclusion of ritonavir can can select for HIV-1 protease inhibitor resistance-associated substitutions. Any HCV/HIV-1 co-infected patients treated with ritonavir-containing combination therapies should also be on a suppressive antiretroviral drug regimen to reduce the risk of HIV-1 protease inhibitor drug resistance.
 
 
