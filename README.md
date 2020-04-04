@@ -85,4 +85,20 @@ Ritonavir is also available as a fixed-dose combination product with Ombitasvir 
 
 In Canada, ritonavir is also available as a fixed-dose combination product with Ombitasvir, Dasabuvir, and Paritaprevir as the Health Canada-approved, commercially available product Holkira Pak. First approved in January 2015, Holkira Pak is indicated for the treatment of HCV genotype 1b with or without cirrhosis, and when combined with Ribavirin for the treatment of HCV genotype 1a with or without cirrhosis. Inclusion of ritonavir can can select for HIV-1 protease inhibitor resistance-associated substitutions. Any HCV/HIV-1 co-infected patients treated with ritonavir-containing combination therapies should also be on a suppressive antiretroviral drug regimen to reduce the risk of HIV-1 protease inhibitor drug resistance.
 
+- ## 4-Galidesivir
+  ![](https://www.drugbank.ca/structures/DB11676/image.svg)
 
+  alidesivir is an adenosine analogue that has been investigated for use against Zaire Ebolavirus. In animal studies, galidesivir was effective in increasing the survival rates from infections caused by various pathogens, including Ebola, Marburg, Yellow Fever and Zika viruses. In vitro, it displayed broad-spectrum antiviral activity against various negative- and positive-sense RNA viruses, including coronaviruses, filoviruses, and arenaviruses. Phase 1 clinical trials have begun to determine the safety of this drug in humans. Because of its activity against other coronaviruses, it may be studied as a potential therapy for COVID-19.
+
+- ## 5-Brilacidin
+  ![](https://www.drugbank.ca/structures/DB12997/image.svg)
+
+  Brilacidin is under investigation for the supportive care of Mucositis, Stomatitis, Mouth Diseases, and Head and Neck Neoplasms.
+
+- ## 6-Lopinavir
+  ![](https://www.drugbank.ca/structures/DB01601/image.svg)
+
+  
+Lopinavir is an antiretroviral protease inhibitor used in combination with other antiretrovirals in the treatment of HIV-1 infection.7 Lopinavir is marketed and administered exclusively in combination with ritonavir - this combination, first marketed by Abbott under the brand name Kaletra in 2000, is necessary due to lopinavir's poor oral bioavailability and extensive biotransformation. Ritonavir is a potent inhibitor of the enzymes responsible for lopinavir metabolism, and its co-administration "boosts" lopinavir exposure and improves antiviral activity.7 Like many other protease inhibitors (e.g. saquinavir, nelfinavir), lopinavir is a peptidomimetic molecule - it contains a hydroxyethylene scaffold that mimics the peptide linkage typically targeted by the HIV-1 protease enzyme but which itself cannot be cleaved, thus preventing the activity of the HIV-1 protease.5
+
+Lopinavir is currently under investigation in combination with ritonavir for the treatment of COVID-19 caused by SARS-CoV-2.8
