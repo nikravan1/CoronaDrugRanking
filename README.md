@@ -1,4 +1,4 @@
-# CoronaDrugInvestigator
+# COVID-19 Drug Ranking
 
 
 Finding a drug(small molecule) between the existing drug is a fastest way to design a drug for a new disease like Corona. It is named as drug repurposing.Many drugs have been suggested by various individuals and researcher groups for Corona but none of them have been definitively approved for corona treatment.However, due to the urgency of treating patients, many of them have been used in medical centers and have shown their positive effects. ***which drugs have better effects is still unclear***. In this repository, we try to achieve a comparison between these drugs by software simulation and classify the effect of these drugs.
