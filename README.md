@@ -59,9 +59,17 @@ This is the pipeline for checking dock score for each ligand (the molecule of dr
 |13|Triazavirin|-2.66	|
 
 The above result shows the Remdesivir and TMC310911 are the best drug for corona virus treatment and chloroquine(Trump had suggested it) and Triazavirin are the worst.
- - : exclamation : 
+ - : exclamation : These results belong to the best site position which is obtained from SiteMap tools in schrodinger software
 # Ranking Drug
-1-
+In this section, all the drugs used to treat covid-19  disease are described (drugbank) in order of their rank.
+- ## Remdesivir
+![](https://www.drugbank.ca/structures/DB14761/image.svg)
 
+Remdesivir, or GS-5734, is an adenosine triphosphate analog first described in the literature in 2016 as a potential treatment for Ebola.1 In 2017, its activity against the coronavirus family of viruses was also demonstrated.Remdesivir is also being researched as a potential treatment to SARS-CoV2, the coronavirus responsible for COVID-19.
+- ## TMC310911
+ ![](https://www.drugbank.ca/structures/DB15623/image.svg)
+  TMC-310911 (also known as ASC-09) is a novel investigational protease inhibitor (PI) that is structurally similar to the currently available darunavir.4 It is being investigated for use in HIV-1 infections. TMC-310911 has shown marked activity against a variety of HIV-1 strains, including multi-PI-resistant strains, and may be less likely to generate resistance, making it a potentially desirable therapy for both treatment-naive and PI-experienced patients.4,3
+
+TMC-310911 is currently being investigated, in combination with other HIV therapies and antivirals, as a potential treatment for COVID-19 caused by SARS-CoV-2.5
 
 
