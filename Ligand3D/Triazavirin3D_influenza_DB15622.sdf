@@ -1,0 +1,245 @@
+Triazavirin_influenza_DB15622
+                    3D
+ Structure written by MMmdl.
+ 18 19  0  0  1  0            999 V2000
+    3.8966    0.0827    0.9975 N   0  0  0  0  0  0
+    2.6644   -0.0263    1.5464 N   0  0  0  0  0  0
+   -0.4021    1.4955   -0.5927 C   0  0  0  0  0  0
+    0.1414    0.6456    0.9197 S   0  0  0  0  0  0
+    1.8842    0.5439    0.6427 C   0  0  0  0  0  0
+    2.4746    1.0176   -0.4466 N   0  0  0  0  0  0
+    3.7780    0.7251   -0.2308 C   0  0  0  0  0  0
+    4.8570    0.9594   -0.9900 N   0  0  0  0  0  0
+    6.0711    0.5668   -0.5523 N   0  0  0  0  0  0
+    7.9905   -0.2092    2.1414 O   0  5  0  0  0  0
+    8.3292   -0.8794    0.1126 O   0  0  0  0  0  0
+    7.6106   -0.4125    0.9927 N   0  3  0  0  0  0
+    6.2173   -0.0658    0.6481 C   0  0  0  0  0  0
+    5.1173   -0.3306    1.4725 C   0  0  0  0  0  0
+    5.1770   -0.9280    2.5956 O   0  5  0  0  0  0
+   -1.4826    1.6354   -0.5653 H   0  0  0  0  0  0
+   -0.1624    0.9055   -1.4778 H   0  0  0  0  0  0
+    0.0619    2.4789   -0.6738 H   0  0  0  0  0  0
+  1 14  1  0  0  0
+  1  7  1  0  0  0
+  1  2  1  0  0  0
+  2  5  2  0  0  0
+  3  4  1  0  0  0
+  3 16  1  0  0  0
+  3 17  1  0  0  0
+  3 18  1  0  0  0
+  4  5  1  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  7  8  1  0  0  0
+  8  9  2  0  0  0
+  9 13  1  0  0  0
+ 10 12  1  0  0  0
+ 11 12  2  0  0  0
+ 12 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+M  CHG  3  10  -1  12   1  15  -1
+M  END
+> <s_m_entry_id>
+19
+
+> <s_m_entry_name>
+Triazavirin2D_influenza_DB15622.1
+
+> <chiral flag>
+1
+
+> <version>
+0
+
+> <s_m_Source_Path>
+E:\Projects\DeepLearning\Drug\CORONA\Ligand2D
+
+> <s_m_Source_File>
+Triazavirin2D_influenza_DB15622.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <DATABASE_ID>
+DB15622
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CSC1=NN2C(NN=C(C2=O)[N+]([O-])=O)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H4N6O3S/c1-15-5-6-4-8-7-2(11(13)14)3(12)10(4)9-5/h1H3,(H,6,8,9)
+
+> <INCHI_KEY>
+IDVQGNMSSHPZSJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H4N6O3S
+
+> <MOLECULAR_WEIGHT>
+228.19
+
+> <EXACT_MASS>
+228.006559187
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+19
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.695271456336453
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.1813752435788
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+7-(methylsulfanyl)-3-nitro-1H,4H-[1,2,4]triazolo[3,2-c][1,2,4]triazin-4-one
+
+> <ALOGPS_LOGP>
+1.07
+
+> <JCHEM_LOGP>
+1.67029795866667
+
+> <ALOGPS_LOGS>
+-2.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.64175873589712
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.68853306092467
+
+> <JCHEM_POLAR_SURFACE_AREA>
+115.31
+
+> <JCHEM_REFRACTIVITY>
+51.4515
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.67e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-bromo-4-[(dimethylamino)methyl]-3-(ethoxycarbonyl)-2-[(phenylsulfanyl)methyl]-1H-indol-5-yl sulfate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15622
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Triazavirin
+
+> <SYNONYMS>
+Riamilovir; Triazavirin
+
+> <chiral flag>
+0
+
+> <s_m_source_file>
+ligprep_10.maegz
+
+> <i_m_source_file_index>
+2
+
+> <i_lp_mmshare_version>
+44012
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W0NIM11TYyhuMSluYyhuMTIpW25IXW5jKFtOK10oW08tXSk9TyljMj1P
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+3
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+18.0652
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Triazavirin2D_influenza_DB15622-1
+
+> <s_m_job_name>
+ligprep_10
+
+> <r_lp_tautomer_probability>
+1
+
+> <s_m_subgroupid>
+ligprep_10-out1
+
+> <s_m_subgroup_title>
+ligprep_10-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

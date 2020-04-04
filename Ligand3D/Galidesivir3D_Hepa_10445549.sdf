@@ -1,0 +1,283 @@
+Galidesivir_Hepa_10445549
+                    3D
+ Structure written by MMmdl.
+ 35 37  0  0  1  0            999 V2000
+   -0.6448   -1.7308    2.0502 O   0  0  0  0  0  0
+   -3.1250   -0.5145    1.5530 O   0  0  0  0  0  0
+   -3.9684    2.5544    0.9134 O   0  0  0  0  0  0
+   -0.4639    1.3158    0.0128 N   0  3  0  0  0  0
+    3.7550   -0.1861    0.8308 N   0  0  0  0  0  0
+    1.9539   -0.6840   -2.1536 N   0  0  0  0  0  0
+    4.2927   -0.9265   -2.7754 N   0  0  0  0  0  0
+    6.0568   -0.7101   -1.2419 N   0  0  0  0  0  0
+    0.0284   -0.0947    0.3408 C   0  0  2  0  0  0
+   -0.6317   -0.3584    1.7005 C   0  0  1  0  0  0
+   -1.9512    1.2934    0.3926 C   0  0  1  0  0  0
+   -2.0048    0.3504    1.6226 C   0  0  1  0  0  0
+    1.5448   -0.1827    0.2814 C   0  0  0  0  0  0
+   -2.6023    2.6779    0.5771 C   0  0  0  0  0  0
+    2.3356   -0.4557   -0.8894 C   0  0  0  0  0  0
+    2.4745   -0.0288    1.3029 C   0  0  0  0  0  0
+    3.7140   -0.4518   -0.5199 C   0  0  0  0  0  0
+    4.6880   -0.6937   -1.4980 C   0  0  0  0  0  0
+    2.9616   -0.9110   -3.0372 C   0  0  0  0  0  0
+   -0.3974   -0.7330   -0.4376 H   0  0  0  0  0  0
+   -0.0561    0.1635    2.4672 H   0  0  0  0  0  0
+   -2.3819    0.8071   -0.4864 H   0  0  0  0  0  0
+   -2.1174    0.9468    2.5301 H   0  0  0  0  0  0
+    0.0276    1.9913    0.5807 H   0  0  0  0  0  0
+   -2.5315    3.2581   -0.3437 H   0  0  0  0  0  0
+   -2.0982    3.2448    1.3606 H   0  0  0  0  0  0
+    2.3296    0.1860    2.3518 H   0  0  0  0  0  0
+    0.2585   -2.0567    2.0482 H   0  0  0  0  0  0
+   -3.0532   -1.1652    2.2557 H   0  0  0  0  0  0
+    4.5690   -0.1082    1.4243 H   0  0  0  0  0  0
+   -4.3460    3.4334    0.9980 H   0  0  0  0  0  0
+    2.6714   -1.0999   -4.0605 H   0  0  0  0  0  0
+    6.3946   -0.5533   -0.3038 H   0  0  0  0  0  0
+    6.6958   -0.8935   -2.0022 H   0  0  0  0  0  0
+   -0.3182    1.5578   -0.9574 H   0  0  0  0  0  0
+  1 10  1  0  0  0
+  1 28  1  0  0  0
+  2 12  1  0  0  0
+  2 29  1  0  0  0
+  3 14  1  0  0  0
+  3 31  1  0  0  0
+  4  9  1  0  0  0
+  4 11  1  0  0  0
+  4 24  1  0  0  0
+  4 35  1  0  0  0
+  5 16  1  0  0  0
+  5 17  1  0  0  0
+  5 30  1  0  0  0
+  6 15  1  0  0  0
+  6 19  2  0  0  0
+  7 18  2  0  0  0
+  7 19  1  0  0  0
+  8 18  1  0  0  0
+  8 33  1  0  0  0
+  8 34  1  0  0  0
+  9 10  1  0  0  0
+  9 13  1  0  0  0
+  9 20  1  0  0  0
+ 10 12  1  0  0  0
+ 10 21  1  0  0  0
+ 11 12  1  0  0  0
+ 11 14  1  0  0  0
+ 11 22  1  0  0  0
+ 12 23  1  0  0  0
+ 13 15  1  0  0  0
+ 13 16  2  0  0  0
+ 14 25  1  0  0  0
+ 14 26  1  0  0  0
+ 15 17  2  0  0  0
+ 16 27  1  0  0  0
+ 17 18  1  0  0  0
+ 19 32  1  0  0  0
+M  CHG  1   4   1
+M  END
+> <s_m_entry_id>
+38
+
+> <s_m_entry_name>
+Galidesivir2D_HepatitC_10445549.1
+
+> <PUBCHEM_COMPOUND_CID>
+10445549
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+334
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+6
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzsAAAAAAAAAAAAAAAAAAAAWLAAAAsAAAAAAAAAFgB+AAAHgAQCAAADDzhngYt8LbJkgCgAxZnZACCgC0xEKAB2aAoVJiLeOLA2dGUZAhv0APZyCfw0OMOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2S,3S,4R,5R)-2-(4-amino-5H-pyrrolo[3,2-d]pyrimidin-7-yl)-5-(hydroxymethyl)pyrrolidine-3,4-diol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2S,3S,4R,5R)-2-(4-amino-5H-pyrrolo[3,2-d]pyrimidin-7-yl)-5-(hydroxymethyl)pyrrolidine-3,4-diol
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(2<I>S</I>,3<I>S</I>,4<I>R</I>,5<I>R</I>)-2-(4-amino-5<I>H</I>-pyrrolo[3,2-d]pyrimidin-7-yl)-5-(hydroxymethyl)pyrrolidine-3,4-diol
+
+> <PUBCHEM_IUPAC_NAME>
+(2S,3S,4R,5R)-2-(4-amino-5H-pyrrolo[3,2-d]pyrimidin-7-yl)-5-(hydroxymethyl)pyrrolidine-3,4-diol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2S,3S,4R,5R)-2-(4-azanyl-5H-pyrrolo[3,2-d]pyrimidin-7-yl)-5-(hydroxymethyl)pyrrolidine-3,4-diol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2S,3S,4R,5R)-2-(4-amino-5H-pyrrolo[3,2-d]pyrimidin-7-yl)-5-methylol-pyrrolidine-3,4-diol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H15N5O3/c12-11-8-6(14-3-15-11)4(1-13-8)7-10(19)9(18)5(2-17)16-7/h1,3,5,7,9-10,13,16-19H,2H2,(H2,12,14,15)/t5-,7+,9-,10+/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+AMFDITJFBUXZQN-KUBHLMPHSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+-2.1
+
+> <PUBCHEM_EXACT_MASS>
+265.117489
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H15N5O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+265.27
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=C(C2=C(N1)C(=NC=N2)N)C3C(C(C(N3)CO)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=C(C2=C(N1)C(=NC=N2)N)[C@H]3[C@@H]([C@@H]([C@H](N3)CO)O)O
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+265.117489
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+4
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  1  5
+11  14  6
+13  15  8
+13  16  8
+15  17  8
+17  18  8
+12  2  5
+5  16  8
+5  17  8
+6  15  8
+6  19  8
+7  18  8
+7  19  8
+9  20  5
+
+> <chiral flag>
+1
+
+> <version>
+0
+
+> <s_m_Source_Path>
+E:\Projects\DeepLearning\Drug\CORONA\Ligand2D
+
+> <s_m_Source_File>
+Galidesivir2D_HepatitC_10445549.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <PUBCHEM_CACTVS_TPSA>
+140
+
+> <chiral flag>
+1
+
+> <s_m_source_file>
+ligprep_10.maegz
+
+> <i_m_source_file_index>
+13
+
+> <i_lp_mmshare_version>
+44012
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W09IXVtDQEBIXTFbQ0BIXShbT0hdKVtDQEBIXShbQ0gyXVtPSF0pW05IXVtDQEhdMWMyW2NIXVtuSF1jKGMyMyljKFtOSDJdKW5bY0hdbjM=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0724
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0722
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0002
+
+> <r_epik_State_Penalty>
+  0.0635
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.135702
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+18.3721
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Galidesivir_Hepa_10445549-1
+
+> <s_m_job_name>
+ligprep_10
+
+> <s_m_subgroupid>
+ligprep_10-out1
+
+> <s_m_subgroup_title>
+ligprep_10-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

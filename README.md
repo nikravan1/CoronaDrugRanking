@@ -41,6 +41,27 @@ This is the pipeline for checking dock score for each ligand (the molecule of dr
 - **6-Viewing Results**
   - you can use any tools for viewing docking score or plot them.
  # Result of Corona virus drug
-  
+ After doing all the above process on these 13 drug we recived these Results as docking score(more negative is better) 
+ |Rank|Drug Name|Docking Score|
+ |:--:|:-------:|:-------:|
+ |1|Remdesivir	|-9.34	|
+|2|TMC310911	|-7.05	|
+|3|Ritonavir	|-6.58	|
+|4|Galidesivir|-6.47	|
+|5|Brilacidin	|-6.11	|
+|6|Lopinavir	|-5.44	|
+|7|Darunavir	|-4.99	|
+|8|Nelfinavir	|-4.75	|
+|9|Atazanavir	|-3.98	|
+|10|Favipiravir|-3.61	|
+|11|Umifenovir	|-3.53	|
+|12|Chloroquine|-3.02	|
+|13|Triazavirin|-2.66	|
+
+The above result shows the Remdesivir and TMC310911 are the best drug for corona virus treatment and chloroquine(Trump had suggested it) and Triazavirin are the worst.
+ - : exclamation : 
+# Ranking Drug
+1-
+
 
 

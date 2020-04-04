@@ -1,0 +1,925 @@
+######## begin of glide-dock_XP_5-0001.log #########
+Glide version 81012 (mmshare version 44012)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e87071a
+Name           : glide-dock_XP_5-0001
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5-0001
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide.exe -RESTART -serial glide-dock_XP_5-0001.inp -HOST localhost
+StartTime      : 2020-04-03-14:21:23
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+Marking conflicts for iatom2, position 2.
+ After readscreen, (nx, ny, nz) = (          29 ,           29 ,           29 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           29 , 
+          29 ,           29 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+  
+  Penalizing non-planar amide torsions 
+  
+ Number of rotatable bonds           23
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-t
+  
+Full force-field refinement in receptor field for up to   10 poses
+   10 poses will be postminimized for this ligand
+Reporting postminimized pose   5 GlideScore =     -3.989
+GlideScore(   -3.99)+Epik State Penalty(    0.01) =    -3.98 kcal/mol
+DOCKING RESULTS FOR LIGAND        1 (Atazanavir2D_AIDS_148192)
+Best XP pose:     6;  GlideScore =     -3.99 Emodel =    -41.14 E =    -57.27 Eint =     0.00
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_5-0001_raw.maegz
+
+Exiting Glide
+Date: Friday, April 03 2020, at 14:42:42 Iran Daylight Time
+CPU time (s): 1122.2 user, 20.6 system, 1276.6 real
+Total elapsed time = 1277 seconds (21 minutes, 17 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_5-0001.log #########
+######## begin of glide-dock_XP_5-0002.log #########
+Glide version 81012 (mmshare version 44012)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e87071d
+Name           : glide-dock_XP_5-0002
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5-0002
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide.exe -RESTART -serial glide-dock_XP_5-0002.inp -HOST localhost
+StartTime      : 2020-04-03-14:21:26
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 1
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+Marking conflicts for iatom2, position 2.
+ After readscreen, (nx, ny, nz) = (          29 ,           29 ,           29 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           29 , 
+          29 ,           29 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+  
+  Penalizing non-planar amide torsions 
+  
+ Number of rotatable bonds           28
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-t
+  
+Full force-field refinement in receptor field for up to   10 poses
+    4 poses will be postminimized for this ligand
+Reporting postminimized pose   4 GlideScore =     -6.112
+GlideScore(   -6.11)+Epik State Penalty(    0.00) =    -6.11 kcal/mol
+DOCKING RESULTS FOR LIGAND        2 (Brilacidin2D_newAntibiotic_25023695)
+Best XP pose:     1;  GlideScore =     -6.11 Emodel =   -103.90 E =    -77.71 Eint =    21.28
+GLIDE WARNING: The above ligand had one or more atoms outside the grid box during energy evaluation or minimization.
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_5-0002_raw.maegz
+
+Exiting Glide
+Date: Friday, April 03 2020, at 15:05:11 Iran Daylight Time
+CPU time (s): 2456.3 user, 10.3 system, 2622.6 real
+Total elapsed time = 2623 seconds (43 minutes, 43 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_5-0002.log #########
+######## begin of glide-dock_XP_5-0003.log #########
+Glide version 81012 (mmshare version 44012)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e870720
+Name           : glide-dock_XP_5-0003
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5-0003
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide.exe -RESTART -serial glide-dock_XP_5-0003.inp -HOST localhost
+StartTime      : 2020-04-03-14:21:29
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 2
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+Marking conflicts for iatom2, position 2.
+ After readscreen, (nx, ny, nz) = (          29 ,           29 ,           29 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           29 , 
+          29 ,           29 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+  
+  Penalizing non-planar amide torsions 
+  
+ Number of rotatable bonds            8
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-t
+  
+Full force-field refinement in receptor field for up to   10 poses
+   10 poses will be postminimized for this ligand
+Reporting postminimized pose   6 GlideScore =     -3.059
+GlideScore(   -3.06)+Epik State Penalty(    0.04) =    -3.02 kcal/mol
+DOCKING RESULTS FOR LIGAND        3 (Chloroquine2D_Malaria_2719)
+Best XP pose:    41;  GlideScore =     -3.06 Emodel =    -40.67 E =    -35.55 Eint =     4.74
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_5-0003_raw.maegz
+
+Exiting Glide
+Date: Friday, April 03 2020, at 14:30:48 Iran Daylight Time
+CPU time (s): 482.5 user, 4.6 system, 557.0 real
+Total elapsed time = 557 seconds (9 minutes, 17 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_5-0003.log #########
+######## begin of glide-dock_XP_5-0004.log #########
+Glide version 81012 (mmshare version 44012)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e870722
+Name           : glide-dock_XP_5-0004
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5-0004
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide.exe -RESTART -serial glide-dock_XP_5-0004.inp -HOST localhost
+StartTime      : 2020-04-03-14:21:32
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 3
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+Marking conflicts for iatom2, position 2.
+ After readscreen, (nx, ny, nz) = (          29 ,           29 ,           29 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           29 , 
+          29 ,           29 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+  
+  Penalizing non-planar amide torsions 
+  
+ Number of rotatable bonds           14
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-t
+  
+Full force-field refinement in receptor field for up to   10 poses
+   10 poses will be postminimized for this ligand
+Reporting original pose  10 GlideScore =     -4.994
+GlideScore(   -4.99)+Epik State Penalty(    0.00) =    -4.99 kcal/mol
+DOCKING RESULTS FOR LIGAND        4 (Darunavir2D_AIDS_DB01264)
+Best XP pose:     3;  GlideScore =     -4.99 Emodel =    -61.90 E =    -47.55 Eint =    12.51
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_5-0004_raw.maegz
+
+Exiting Glide
+Date: Friday, April 03 2020, at 14:42:59 Iran Daylight Time
+CPU time (s): 1137.1 user, 14.1 system, 1284.5 real
+Total elapsed time = 1284 seconds (21 minutes, 24 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_5-0004.log #########
+######## begin of glide-dock_XP_5-0005.log #########
+Glide version 81012 (mmshare version 44012)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e870725
+Name           : glide-dock_XP_5-0005
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5-0005
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide.exe -RESTART -serial glide-dock_XP_5-0005.inp -HOST localhost
+StartTime      : 2020-04-03-14:21:35
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 4
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+Marking conflicts for iatom2, position 2.
+ After readscreen, (nx, ny, nz) = (          29 ,           29 ,           29 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           29 , 
+          29 ,           29 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+  
+  Penalizing non-planar amide torsions 
+  
+ Number of rotatable bonds            1
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-t
+  
+Full force-field refinement in receptor field for up to   10 poses
+    5 poses will be postminimized for this ligand
+Reporting postminimized pose   1 GlideScore =     -3.620
+GlideScore(   -3.62)+Epik State Penalty(    0.01) =    -3.61 kcal/mol
+DOCKING RESULTS FOR LIGAND        5 (Favipiravir2D_Inflenza_492405)
+Best XP pose:     1;  GlideScore =     -3.62 Emodel =    -32.24 E =    -26.73 Eint =     1.76
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_5-0005_raw.maegz
+
+Exiting Glide
+Date: Friday, April 03 2020, at 14:22:27 Iran Daylight Time
+CPU time (s): 42.4 user, 1.0 system, 49.6 real
+Total elapsed time = 50 seconds
+[running at reduced cpu priority]
+######## end of glide-dock_XP_5-0005.log #########
+######## begin of glide-dock_XP_5-0006.log #########
+Glide version 81012 (mmshare version 44012)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e870729
+Name           : glide-dock_XP_5-0006
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5-0006
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide.exe -RESTART -serial glide-dock_XP_5-0006.inp -HOST localhost
+StartTime      : 2020-04-03-14:21:39
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 5
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+Marking conflicts for iatom2, position 2.
+ After readscreen, (nx, ny, nz) = (          29 ,           29 ,           29 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           29 , 
+          29 ,           29 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+  
+  Penalizing non-planar amide torsions 
+  
+ Number of rotatable bonds            5
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-t
+  
+Full force-field refinement in receptor field for up to   10 poses
+    8 poses will be postminimized for this ligand
+Reporting postminimized pose   1 GlideScore =     -6.467
+GlideScore(   -6.47)+Epik State Penalty(    0.06) =    -6.40 kcal/mol
+DOCKING RESULTS FOR LIGAND        6 (Galidesivir_Hepa_10445549)
+Best XP pose:    33;  GlideScore =     -6.47 Emodel =    -48.74 E =    -42.11 Eint =     0.29
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_5-0006_raw.maegz
+
+Exiting Glide
+Date: Friday, April 03 2020, at 14:27:17 Iran Daylight Time
+CPU time (s): 287.2 user, 2.2 system, 335.0 real
+Total elapsed time = 335 seconds (5 minutes, 35 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_5-0006.log #########
+######## begin of glide-dock_XP_5-0007.log #########
+Glide version 81012 (mmshare version 44012)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e87072d
+Name           : glide-dock_XP_5-0007
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5-0007
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide.exe -RESTART -serial glide-dock_XP_5-0007.inp -HOST localhost
+StartTime      : 2020-04-03-14:21:43
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 6
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+Marking conflicts for iatom2, position 2.
+ After readscreen, (nx, ny, nz) = (          29 ,           29 ,           29 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           29 , 
+          29 ,           29 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+  
+  Penalizing non-planar amide torsions 
+  
+ Number of rotatable bonds           18
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-t
+  
+Full force-field refinement in receptor field for up to   10 poses
+    7 poses will be postminimized for this ligand
+Reporting postminimized pose   3 GlideScore =     -5.444
+GlideScore(   -5.44)+Epik State Penalty(    0.00) =    -5.44 kcal/mol
+DOCKING RESULTS FOR LIGAND        7 (Lopinavir2D_AIDS_92727)
+Best XP pose:     2;  GlideScore =     -5.44 Emodel =    -66.87 E =    -54.07 Eint =    13.72
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_5-0007_raw.maegz
+
+Exiting Glide
+Date: Friday, April 03 2020, at 14:51:49 Iran Daylight Time
+CPU time (s): 1640.4 user, 15.7 system, 1802.3 real
+Total elapsed time = 1802 seconds (30 minutes, 2 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_5-0007.log #########
+######## begin of glide-dock_XP_5-0008.log #########
+Glide version 81012 (mmshare version 44012)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e870732
+Name           : glide-dock_XP_5-0008
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5-0008
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide.exe -RESTART -serial glide-dock_XP_5-0008.inp -HOST localhost
+StartTime      : 2020-04-03-14:21:48
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 7
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+Marking conflicts for iatom2, position 2.
+ After readscreen, (nx, ny, nz) = (          29 ,           29 ,           29 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           29 , 
+          29 ,           29 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+  
+  Penalizing non-planar amide torsions 
+  
+ Number of rotatable bonds           14
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-t
+  
+Full force-field refinement in receptor field for up to   10 poses
+    6 poses will be postminimized for this ligand
+Reporting postminimized pose   4 GlideScore =     -4.761
+GlideScore(   -4.76)+Epik State Penalty(    0.01) =    -4.75 kcal/mol
+DOCKING RESULTS FOR LIGAND        8 (Nelfinavir2D_AIDS_64143)
+Best XP pose:    17;  GlideScore =     -4.76 Emodel =    -68.89 E =    -52.19 Eint =    14.41
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_5-0008_raw.maegz
+
+Exiting Glide
+Date: Friday, April 03 2020, at 14:53:30 Iran Daylight Time
+CPU time (s): 1742.8 user, 12.0 system, 1898.7 real
+Total elapsed time = 1899 seconds (31 minutes, 39 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_5-0008.log #########
+######## begin of glide-dock_XP_5-0009.log #########
+Glide version 81012 (mmshare version 44012)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e870760
+Name           : glide-dock_XP_5-0009
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5-0009
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide.exe -RESTART -serial glide-dock_XP_5-0009.inp -HOST localhost
+StartTime      : 2020-04-03-14:22:34
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 8
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+Marking conflicts for iatom2, position 2.
+ After readscreen, (nx, ny, nz) = (          29 ,           29 ,           29 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           29 , 
+          29 ,           29 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+  
+  Penalizing non-planar amide torsions 
+  
+ Number of rotatable bonds           17
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-t
+  
+Full force-field refinement in receptor field for up to   10 poses
+    8 poses will be postminimized for this ligand
+Reporting postminimized pose   8 GlideScore =     -9.339
+GlideScore(   -9.34)+Epik State Penalty(    0.00) =    -9.34 kcal/mol
+DOCKING RESULTS FOR LIGAND        9 (Remdesivir2D_Ebola_121304016)
+Best XP pose:     1;  GlideScore =     -9.34 Emodel =    -83.00 E =    -63.58 Eint =    12.56
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_5-0009_raw.maegz
+
+Exiting Glide
+Date: Friday, April 03 2020, at 14:47:29 Iran Daylight Time
+CPU time (s): 1342.1 user, 16.0 system, 1491.4 real
+Total elapsed time = 1491 seconds (24 minutes, 51 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_5-0009.log #########
+######## begin of glide-dock_XP_5-0010.log #########
+Glide version 81012 (mmshare version 44012)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e870882
+Name           : glide-dock_XP_5-0010
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5-0010
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide.exe -RESTART -serial glide-dock_XP_5-0010.inp -HOST localhost
+StartTime      : 2020-04-03-14:27:25
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 9
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+Marking conflicts for iatom2, position 2.
+ After readscreen, (nx, ny, nz) = (          29 ,           29 ,           29 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           29 , 
+          29 ,           29 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+  
+  Penalizing non-planar amide torsions 
+  
+ Number of rotatable bonds           23
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-t
+  
+Full force-field refinement in receptor field for up to   10 poses
+    1 poses will be postminimized for this ligand
+Reporting original pose   1 GlideScore =     -6.577
+GlideScore(   -6.58)+Epik State Penalty(    0.00) =    -6.58 kcal/mol
+DOCKING RESULTS FOR LIGAND       10 (Ritonavir2D_AIDS_DB00503)
+Best XP pose:     1;  GlideScore =     -6.58 Emodel =    -89.29 E =    -64.50 Eint =    13.34
+GLIDE WARNING: The above ligand had one or more atoms outside the grid box during energy evaluation or minimization.
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_5-0010_raw.maegz
+
+Exiting Glide
+Date: Friday, April 03 2020, at 15:00:05 Iran Daylight Time
+CPU time (s): 1823.7 user, 21.8 system, 1957.0 real
+Total elapsed time = 1957 seconds (32 minutes, 37 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_5-0010.log #########
+######## begin of glide-dock_XP_5-0011.log #########
+Glide version 81012 (mmshare version 44012)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e870956
+Name           : glide-dock_XP_5-0011
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5-0011
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide.exe -RESTART -serial glide-dock_XP_5-0011.inp -HOST localhost
+StartTime      : 2020-04-03-14:30:56
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 10
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+Marking conflicts for iatom2, position 2.
+ After readscreen, (nx, ny, nz) = (          29 ,           29 ,           29 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           29 , 
+          29 ,           29 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+  
+  Penalizing non-planar amide torsions 
+  
+ Number of rotatable bonds           17
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-t
+  
+Full force-field refinement in receptor field for up to   10 poses
+    8 poses will be postminimized for this ligand
+Reporting postminimized pose   7 GlideScore =     -7.047
+GlideScore(   -7.05)+Epik State Penalty(    0.00) =    -7.05 kcal/mol
+DOCKING RESULTS FOR LIGAND       11 (TMC310911_AIDS_DB15623)
+Best XP pose:    45;  GlideScore =     -7.05 Emodel =    -93.19 E =    -68.82 Eint =    15.08
+GLIDE WARNING: The above ligand had one or more atoms outside the grid box during energy evaluation or minimization.
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_5-0011_raw.maegz
+
+Exiting Glide
+Date: Friday, April 03 2020, at 14:54:36 Iran Daylight Time
+CPU time (s): 1314.8 user, 17.7 system, 1416.5 real
+Total elapsed time = 1416 seconds (23 minutes, 36 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_5-0011.log #########
+######## begin of glide-dock_XP_5-0012.log #########
+Glide version 81012 (mmshare version 44012)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e870c20
+Name           : glide-dock_XP_5-0012
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5-0012
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide.exe -RESTART -serial glide-dock_XP_5-0012.inp -HOST localhost
+StartTime      : 2020-04-03-14:42:50
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 11
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+Marking conflicts for iatom2, position 2.
+ After readscreen, (nx, ny, nz) = (          29 ,           29 ,           29 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           29 , 
+          29 ,           29 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+  
+  Penalizing non-planar amide torsions 
+  
+ Number of rotatable bonds            2
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-t
+  
+Full force-field refinement in receptor field for up to   10 poses
+    8 poses will be postminimized for this ligand
+Reporting postminimized pose   6 GlideScore =     -2.664
+GlideScore(   -2.66)+Epik State Penalty(    0.00) =    -2.66 kcal/mol
+DOCKING RESULTS FOR LIGAND       12 (Triazavirin2D_influenza_DB15622)
+Best XP pose:    25;  GlideScore =     -2.66 Emodel =    -35.29 E =    -29.35 Eint =     1.34
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_5-0012_raw.maegz
+
+Exiting Glide
+Date: Friday, April 03 2020, at 14:43:45 Iran Daylight Time
+CPU time (s): 45.1 user, 1.3 system, 51.5 real
+Total elapsed time = 52 seconds
+[running at reduced cpu priority]
+######## end of glide-dock_XP_5-0012.log #########
+######## begin of glide-dock_XP_5-0013.log #########
+Glide version 81012 (mmshare version 44012)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e870c2f
+Name           : glide-dock_XP_5-0013
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5-0013
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide.exe -RESTART -serial glide-dock_XP_5-0013.inp -HOST localhost
+StartTime      : 2020-04-03-14:43:05
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Offsetting ligand numbers by 12
+ VdW radii of ligand atoms scaled by   0.800000000000000     
+ Charge cutoff for polarity   0.150000000000000     
+Marking conflicts for iatom2, position 2.
+ After readscreen, (nx, ny, nz) = (          29 ,           29 ,           29 ).
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           29 , 
+          29 ,           29 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+ DOCKMAIN: Grid setup finished
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+  
+  Penalizing non-planar amide torsions 
+  
+ Number of rotatable bonds            8
+ Using templates for ring conformations.
+Glide Extra Precision Mode active.
+
+GlideScore version XP5.0 will be used
+
+  
+ Buried polar penalty      0.000
+ Coulomb vdW cutoff        0.000
+ H bond cutoff             0.000
+ Metal-ligand cutoff      10.000
+Assigning GlideScore XP5.0 parameters
+For Glide Extra Precision mode, will use maxref = 800
+ Use grow mode-t
+  
+Full force-field refinement in receptor field for up to   10 poses
+   10 poses will be postminimized for this ligand
+Reporting postminimized pose   2 GlideScore =     -3.717
+GlideScore(   -3.72)+Epik State Penalty(    0.19) =    -3.53 kcal/mol
+DOCKING RESULTS FOR LIGAND       13 (Umifenovir2D_Influenza_13609)
+Best XP pose:    34;  GlideScore =     -3.72 Emodel =    -55.80 E =    -45.52 Eint =     3.49
+  
+ REPORT OF DOCKED POSES
+  
+ The ligand structures were written to the file
+glide-dock_XP_5-0013_raw.maegz
+
+Exiting Glide
+Date: Friday, April 03 2020, at 14:55:26 Iran Daylight Time
+CPU time (s): 713.6 user, 4.4 system, 736.6 real
+Total elapsed time = 737 seconds (12 minutes, 17 seconds)
+[running at reduced cpu priority]
+######## end of glide-dock_XP_5-0013.log #########

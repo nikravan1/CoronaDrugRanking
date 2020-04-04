@@ -1,0 +1,37 @@
+Glide version 81012 (mmshare version 44012)
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e8666ac
+Name           : glide-grid_site1
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\Documents\Schrodinger\glide-grid_site1
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-grid_site1
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide glide-grid_site1.in -OVERWRITE -HOST localhost -PROJ C:\Users\Asus\AppData\Local\Schrodinger\tmp\tproj78399a1896 -DISP ignore -VIEWNAME glide_gridgen_gui.GridGenPanel -TMPLAUNCHDIR -ATTACHED
+StartTime      : 2020-04-03-02:56:53
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Calling OPLS3e atomtyping ...
+Finished parameter assignment
+ VdW radii of protein atoms scaled by    1.00000000000000     
+ Charge cutoff for polarity  0.250000000000000     
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           29 , 
+          29 ,           29 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          80 ,           80 , 
+          80 ).
+Creating output grid archive 'glide-grid_site1.zip'
+
+Exiting Glide
+Date: Friday, April 03 2020, at 02:57:51 Iran Daylight Time
+CPU time (s): 49.5 user, 5.2 system, 55.5 real
+Total elapsed time = 55 seconds
+[running at reduced cpu priority]

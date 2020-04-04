@@ -1,0 +1,421 @@
+Ritonavir_AIDS_DB00503
+                    3D
+ Structure written by MMmdl.
+ 98101  0  0  1  0            999 V2000
+   -0.3033   -0.1966   -0.5302 C   0  0  1  0  0  0
+   -0.7113   -1.0873   -1.7416 C   0  0  0  0  0  0
+   -0.8239   -0.7203    0.8351 C   0  0  0  0  0  0
+    1.1444    0.0224   -0.4438 N   0  0  0  0  0  0
+   -0.1055   -2.4892   -1.7413 C   0  0  0  0  0  0
+   -2.3653   -0.8460    0.9831 C   0  0  1  0  0  0
+    1.8744    0.7568   -1.3012 C   0  0  0  0  0  0
+    1.1212   -2.7173   -2.3713 C   0  0  0  0  0  0
+   -0.7757   -3.5457   -1.1172 C   0  0  0  0  0  0
+   -2.8099   -1.4707    2.3419 C   0  0  2  0  0  0
+   -2.9088    0.4564    0.8250 O   0  0  0  0  0  0
+    3.3910    0.8333   -1.0070 C   0  0  1  0  0  0
+    1.4045    1.3403   -2.2800 O   0  0  0  0  0  0
+    1.6843   -3.9904   -2.3620 C   0  0  0  0  0  0
+   -0.2129   -4.8192   -1.1078 C   0  0  0  0  0  0
+   -2.4602   -2.9835    2.4378 C   0  0  0  0  0  0
+   -4.2461   -1.2475    2.5890 N   0  0  0  0  0  0
+    4.0925   -0.0507   -1.9405 N   0  0  0  0  0  0
+    3.9075    2.3070   -1.1276 C   0  0  0  0  0  0
+    1.0157   -5.0352   -1.7283 C   0  0  0  0  0  0
+   -2.7428   -3.6123    3.7977 C   0  0  0  0  0  0
+   -4.7776   -0.9353    3.8332 C   0  0  0  0  0  0
+    4.3932   -1.3494   -1.7364 C   0  0  0  0  0  0
+    5.4271    2.4070   -0.8795 C   0  0  0  0  0  0
+    3.1744    3.3091   -0.2080 C   0  0  0  0  0  0
+   -1.8672   -3.3855    4.8630 C   0  0  0  0  0  0
+   -3.8829   -4.4001    3.9825 C   0  0  0  0  0  0
+   -6.1195   -0.8882    3.7324 O   0  0  0  0  0  0
+   -4.1410   -0.7457    4.8727 O   0  0  0  0  0  0
+    5.0803   -1.9483   -2.7487 N   0  0  0  0  0  0
+    4.1027   -1.9278   -0.6860 O   0  0  0  0  0  0
+   -2.1341   -3.9405    6.1117 C   0  0  0  0  0  0
+   -4.1498   -4.9535    5.2317 C   0  0  0  0  0  0
+   -6.9292   -0.6528    4.8773 C   0  0  0  0  0  0
+    5.3521   -1.3352   -4.0676 C   0  0  0  0  0  0
+    5.5770   -3.3226   -2.6285 C   0  0  0  0  0  0
+   -3.2745   -4.7210    6.2904 C   0  0  0  0  0  0
+   -8.3750   -0.8895    4.5166 C   0  0  0  0  0  0
+    6.4330   -0.2611   -4.0508 C   0  0  0  0  0  0
+   -9.4319    0.0102    4.3557 C   0  0  0  0  0  0
+   -9.0188   -2.4850    4.2196 S   0  0  0  0  0  0
+    7.5133   -0.4714   -3.3176 N   0  0  0  0  0  0
+    6.4184    0.9509   -4.7309 C   0  0  0  0  0  0
+  -10.6135   -0.4783    4.0351 N   0  0  0  0  0  0
+  -10.5675   -1.7771    3.9236 C   0  0  0  0  0  0
+    8.3733    0.5199   -3.3473 C   0  0  0  0  0  0
+    7.8577    1.8425   -4.3560 S   0  0  0  0  0  0
+    9.6546    0.4929   -2.5224 C   0  0  0  0  0  0
+    9.3531    0.7913   -1.0421 C   0  0  0  0  0  0
+   10.7498    1.4313   -3.0662 C   0  0  0  0  0  0
+   -0.7543    0.7867   -0.6805 H   0  0  0  0  0  0
+   -1.7958   -1.1698   -1.8128 H   0  0  0  0  0  0
+   -0.4242   -0.5971   -2.6730 H   0  0  0  0  0  0
+   -0.3443   -1.6777    1.0337 H   0  0  0  0  0  0
+   -0.4620   -0.0582    1.6247 H   0  0  0  0  0  0
+    1.6153   -0.4183    0.3335 H   0  0  0  0  0  0
+   -2.7760   -1.4589    0.1816 H   0  0  0  0  0  0
+    1.6423   -1.9079   -2.8613 H   0  0  0  0  0  0
+   -1.7281   -3.3840   -0.6350 H   0  0  0  0  0  0
+   -2.2630   -0.9247    3.1148 H   0  0  0  0  0  0
+   -2.6269    0.8056   -0.0234 H   0  0  0  0  0  0
+    3.5810    0.4951    0.0147 H   0  0  0  0  0  0
+    2.6360   -4.1655   -2.8412 H   0  0  0  0  0  0
+   -0.7263   -5.6352   -0.6208 H   0  0  0  0  0  0
+   -2.9979   -3.5377    1.6662 H   0  0  0  0  0  0
+   -1.4068   -3.1566    2.2213 H   0  0  0  0  0  0
+   -4.8854   -1.3883    1.8206 H   0  0  0  0  0  0
+    4.3585    0.3743   -2.8168 H   0  0  0  0  0  0
+    3.7505    2.6460   -2.1538 H   0  0  0  0  0  0
+    1.4537   -6.0224   -1.7197 H   0  0  0  0  0  0
+    5.6884    2.0478    0.1163 H   0  0  0  0  0  0
+    5.7753    3.4370   -0.9626 H   0  0  0  0  0  0
+    5.9941    1.8198   -1.6020 H   0  0  0  0  0  0
+    3.2468    3.0078    0.8374 H   0  0  0  0  0  0
+    2.1169    3.3972   -0.4567 H   0  0  0  0  0  0
+    3.6026    4.3081   -0.2943 H   0  0  0  0  0  0
+   -0.9875   -2.7734    4.7266 H   0  0  0  0  0  0
+   -4.5672   -4.5745    3.1649 H   0  0  0  0  0  0
+   -1.4620   -3.7633    6.9383 H   0  0  0  0  0  0
+   -5.0326   -5.5577    5.3798 H   0  0  0  0  0  0
+   -6.6294   -1.3095    5.6960 H   0  0  0  0  0  0
+   -6.7772    0.3732    5.2156 H   0  0  0  0  0  0
+    5.5916   -2.1109   -4.7965 H   0  0  0  0  0  0
+    4.4164   -0.9050   -4.4286 H   0  0  0  0  0  0
+    5.4021   -3.7612   -1.6451 H   0  0  0  0  0  0
+    6.6517   -3.3474   -2.8119 H   0  0  0  0  0  0
+    5.0948   -3.9624   -3.3681 H   0  0  0  0  0  0
+   -3.4828   -5.1488    7.2600 H   0  0  0  0  0  0
+   -9.3383    1.0791    4.4782 H   0  0  0  0  0  0
+    5.6602    1.3511   -5.3878 H   0  0  0  0  0  0
+  -11.4233   -2.3834    3.6666 H   0  0  0  0  0  0
+   10.0645   -0.5179   -2.5610 H   0  0  0  0  0  0
+    8.6587    0.0620   -0.6229 H   0  0  0  0  0  0
+    8.9090    1.7800   -0.9179 H   0  0  0  0  0  0
+   10.2610    0.7613   -0.4384 H   0  0  0  0  0  0
+   10.9826    1.2070   -4.1081 H   0  0  0  0  0  0
+   11.6743    1.3271   -2.4968 H   0  0  0  0  0  0
+   10.4504    2.4785   -3.0077 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+  1  4  1  0  0  0
+  1 51  1  0  0  0
+  2  5  1  0  0  0
+  2 52  1  0  0  0
+  2 53  1  0  0  0
+  3  6  1  0  0  0
+  3 54  1  0  0  0
+  3 55  1  0  0  0
+  4  7  1  0  0  0
+  4 56  1  0  0  0
+  5  8  2  0  0  0
+  5  9  1  0  0  0
+  6 10  1  0  0  0
+  6 11  1  0  0  0
+  6 57  1  0  0  0
+  7 12  1  0  0  0
+  7 13  2  0  0  0
+  8 14  1  0  0  0
+  8 58  1  0  0  0
+  9 15  2  0  0  0
+  9 59  1  0  0  0
+ 10 16  1  0  0  0
+ 10 17  1  0  0  0
+ 10 60  1  0  0  0
+ 11 61  1  0  0  0
+ 12 18  1  0  0  0
+ 12 19  1  0  0  0
+ 12 62  1  0  0  0
+ 14 20  2  0  0  0
+ 14 63  1  0  0  0
+ 15 20  1  0  0  0
+ 15 64  1  0  0  0
+ 16 21  1  0  0  0
+ 16 65  1  0  0  0
+ 16 66  1  0  0  0
+ 17 22  1  0  0  0
+ 17 67  1  0  0  0
+ 18 23  1  0  0  0
+ 18 68  1  0  0  0
+ 19 24  1  0  0  0
+ 19 25  1  0  0  0
+ 19 69  1  0  0  0
+ 20 70  1  0  0  0
+ 21 26  2  0  0  0
+ 21 27  1  0  0  0
+ 22 28  1  0  0  0
+ 22 29  2  0  0  0
+ 23 30  1  0  0  0
+ 23 31  2  0  0  0
+ 24 71  1  0  0  0
+ 24 72  1  0  0  0
+ 24 73  1  0  0  0
+ 25 74  1  0  0  0
+ 25 75  1  0  0  0
+ 25 76  1  0  0  0
+ 26 32  1  0  0  0
+ 26 77  1  0  0  0
+ 27 33  2  0  0  0
+ 27 78  1  0  0  0
+ 28 34  1  0  0  0
+ 30 35  1  0  0  0
+ 30 36  1  0  0  0
+ 32 37  2  0  0  0
+ 32 79  1  0  0  0
+ 33 37  1  0  0  0
+ 33 80  1  0  0  0
+ 34 38  1  0  0  0
+ 34 81  1  0  0  0
+ 34 82  1  0  0  0
+ 35 39  1  0  0  0
+ 35 83  1  0  0  0
+ 35 84  1  0  0  0
+ 36 85  1  0  0  0
+ 36 86  1  0  0  0
+ 36 87  1  0  0  0
+ 37 88  1  0  0  0
+ 38 40  2  0  0  0
+ 38 41  1  0  0  0
+ 39 42  1  0  0  0
+ 39 43  2  0  0  0
+ 40 44  1  0  0  0
+ 40 89  1  0  0  0
+ 41 45  1  0  0  0
+ 42 46  2  0  0  0
+ 43 47  1  0  0  0
+ 43 90  1  0  0  0
+ 44 45  2  0  0  0
+ 45 91  1  0  0  0
+ 46 48  1  0  0  0
+ 46 47  1  0  0  0
+ 48 49  1  0  0  0
+ 48 50  1  0  0  0
+ 48 92  1  0  0  0
+ 49 93  1  0  0  0
+ 49 94  1  0  0  0
+ 49 95  1  0  0  0
+ 50 96  1  0  0  0
+ 50 97  1  0  0  0
+ 50 98  1  0  0  0
+M  END
+> <s_m_entry_id>
+22
+
+> <s_m_entry_name>
+Ritonavir2D_AIDS_DB00503.1
+
+> <chiral flag>
+1
+
+> <version>
+0
+
+> <s_m_Source_Path>
+E:\Projects\DeepLearning\Drug\CORONA\Ligand2D
+
+> <s_m_Source_File>
+Ritonavir2D_AIDS_DB00503.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <DATABASE_ID>
+DB00503
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C37H48N6O5S2/c1-24(2)33(42-36(46)43(5)20-29-22-49-35(40-29)25(3)4)34(45)39-28(16-26-12-8-6-9-13-26)18-32(44)31(17-27-14-10-7-11-15-27)41-37(47)48-21-30-19-38-23-50-30/h6-15,19,22-25,28,31-33,44H,16-18,20-21H2,1-5H3,(H,39,45)(H,41,47)(H,42,46)/t28-,31-,32-,33-/m0/s1
+
+> <INCHI_KEY>
+NCDNCNXCDXHOMX-XGKFQTDJSA-N
+
+> <FORMULA>
+C37H48N6O5S2
+
+> <MOLECULAR_WEIGHT>
+720.944
+
+> <EXACT_MASS>
+720.312760056
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+98
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+8.56783946173961e-005
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+76.2292592421213
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1,3-thiazol-5-yl)methyl N-[(2S,3S,5S)-3-hydroxy-5-[(2S)-3-methyl-2-{[methyl({[2-(propan-2-yl)-1,3-thiazol-4-yl]methyl})carbamoyl]amino}butanamido]-1,6-diphenylhexan-2-yl]carbamate
+
+> <ALOGPS_LOGP>
+4.24
+
+> <JCHEM_LOGP>
+5.221782033
+
+> <ALOGPS_LOGS>
+-5.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.2299004390756
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.678454624298
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.84408718587091
+
+> <JCHEM_POLAR_SURFACE_AREA>
+145.78
+
+> <JCHEM_REFRACTIVITY>
+194.5924
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+18
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.26e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-bromo-4-[(dimethylamino)methyl]-3-(ethoxycarbonyl)-2-[(phenylsulfanyl)methyl]-1H-indol-5-yl sulfate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00503
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00312
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Ritonavir
+
+> <SYNONYMS>
+Ritonavir; Ritonavirum
+
+> <PRODUCTS>
+Holkira Pak; Kaletra; Lopinavir and Ritonavir; Lopinavir-Ritonavir; Norvir; Norvir Sec; Ritonavir; Technivie; Viekira Pak; Viekira XR
+
+> <INTERNATIONAL_BRANDS>
+Busvir; Empetus; Normune
+
+> <chiral flag>
+0
+
+> <s_m_source_file>
+ligprep_10.maegz
+
+> <i_m_source_file_index>
+4
+
+> <i_lp_mmshare_version>
+44012
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W2NIXTFzYyhbQ0hdKFtDSDNdKVtDSDNdKW5jMVtDSDJdTihbQ0gzXSlDKD1PKVtOSF1bQ0BASF0oW0NIXShbQ0gzXSlbQ0gzXSlDKD1PKVtOSF1bQ0BASF0oW0NIMl1jMltjSF1bY0hdW2NIXVtjSF1bY0hdMilbQ0gyXVtDQEhdKFtPSF0pW0NASF0oW0NIMl1jM1tjSF1bY0hdW2NIXVtjSF1bY0hdMylbTkhdQyg9TylPW0NIMl1jNFtjSF1uW2NIXXM0
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0002
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0002
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH.
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+35.5422
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Ritonavir2D_AIDS_DB00503-1
+
+> <s_m_job_name>
+ligprep_10
+
+> <r_lp_tautomer_probability>
+1
+
+> <s_m_subgroupid>
+ligprep_10-out1
+
+> <s_m_subgroup_title>
+ligprep_10-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

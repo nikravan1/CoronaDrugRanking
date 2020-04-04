@@ -1,0 +1,392 @@
+Nelfinavir_AIDS_64143
+                    3D
+ Structure written by MMmdl.
+ 86 89  0  0  1  0            999 V2000
+    3.5924    1.1304    1.4391 S   0  0  0  0  0  0
+   -1.2374   -2.1715    4.6532 O   0  0  0  0  0  0
+   -0.9701    1.5408    0.3174 O   0  0  0  0  0  0
+    1.3780   -0.7839   -2.5216 O   0  0  0  0  0  0
+    1.8054    2.0380   -7.0379 O   0  0  0  0  0  0
+   -0.3033   -2.0936    1.2600 N   0  3  2  0  0  0
+    0.9053   -1.9680    3.9226 N   0  0  0  0  0  0
+    1.6613    0.9823   -1.1229 N   0  0  0  0  0  0
+   -0.4573   -5.0828    1.0079 C   0  0  2  0  0  0
+    0.0652   -4.2021   -0.1543 C   0  0  1  0  0  0
+   -0.1783   -4.3997    2.3592 C   0  0  0  0  0  0
+   -0.5530   -2.7874   -0.1109 C   0  0  0  0  0  0
+    0.1090   -6.5199    0.8897 C   0  0  0  0  0  0
+    1.6126   -4.2095   -0.2378 C   0  0  0  0  0  0
+   -0.8112   -2.9873    2.4399 C   0  0  1  0  0  0
+    1.6504   -6.5498    0.7892 C   0  0  0  0  0  0
+    2.1732   -5.6414   -0.3436 C   0  0  0  0  0  0
+   -0.9717   -0.6831    1.2405 C   0  0  0  0  0  0
+   -0.3898   -2.3237    3.7742 C   0  0  0  0  0  0
+   -0.3817    0.2622    0.1592 C   0  0  2  0  0  0
+    1.1766    0.3721    0.1221 C   0  0  2  0  0  0
+    1.5578   -1.3698    5.0993 C   0  0  0  0  0  0
+    1.7741    1.0971    1.3500 C   0  0  0  0  0  0
+    3.0482   -1.1747    4.7509 C   0  0  0  0  0  0
+    1.4699   -2.3067    6.3294 C   0  0  0  0  0  0
+    0.9454    0.0092    5.4465 C   0  0  0  0  0  0
+    1.7311    0.3802   -2.3264 C   0  0  0  0  0  0
+    2.2817    1.2300   -3.4511 C   0  0  0  0  0  0
+    4.0834    1.9621    2.9263 C   0  0  0  0  0  0
+    1.7154    1.2266   -4.7511 C   0  0  0  0  0  0
+    3.4105    2.0285   -3.2033 C   0  0  0  0  0  0
+    5.4404    1.9934    3.2516 C   0  0  0  0  0  0
+    3.1443    2.5672    3.7677 C   0  0  0  0  0  0
+    2.3054    2.0127   -5.7600 C   0  0  0  0  0  0
+    0.4543    0.4164   -5.0764 C   0  0  0  0  0  0
+    3.9771    2.8039   -4.2093 C   0  0  0  0  0  0
+    5.8606    2.6225    4.4206 C   0  0  0  0  0  0
+    3.5656    3.1944    4.9372 C   0  0  0  0  0  0
+    3.4275    2.7927   -5.4853 C   0  0  0  0  0  0
+    4.9209    3.2183    5.2590 C   0  0  0  0  0  0
+   -1.5414   -5.1434    0.8910 H   0  0  0  0  0  0
+   -0.2926   -4.6753   -1.0712 H   0  0  0  0  0  0
+   -0.5504   -5.0323    3.1674 H   0  0  0  0  0  0
+    0.8999   -4.3561    2.5195 H   0  0  0  0  0  0
+   -1.6321   -2.8022   -0.2759 H   0  0  0  0  0  0
+   -0.0736   -2.1735   -0.8695 H   0  0  0  0  0  0
+   -0.2074   -7.1173    1.7458 H   0  0  0  0  0  0
+   -0.3142   -7.0047    0.0085 H   0  0  0  0  0  0
+    1.9378   -3.6195   -1.0960 H   0  0  0  0  0  0
+    2.0433   -3.6976    0.6234 H   0  0  0  0  0  0
+   -1.9017   -3.0115    2.3821 H   0  0  0  0  0  0
+    2.0891   -6.2390    1.7381 H   0  0  0  0  0  0
+    1.9892   -7.5736    0.6254 H   0  0  0  0  0  0
+    1.8937   -6.0685   -1.3080 H   0  0  0  0  0  0
+    3.2635   -5.6165   -0.3280 H   0  0  0  0  0  0
+   -2.0350   -0.8772    1.0871 H   0  0  0  0  0  0
+   -0.8251   -0.2538    2.2310 H   0  0  0  0  0  0
+   -0.7467   -0.0711   -0.8126 H   0  0  0  0  0  0
+    1.5255   -2.1524    3.1479 H   0  0  0  0  0  0
+    1.5944   -0.6364    0.1410 H   0  0  0  0  0  0
+   -1.9232    1.4547    0.2393 H   0  0  0  0  0  0
+    1.4081    0.6273    2.2621 H   0  0  0  0  0  0
+    1.4189    2.1279    1.3765 H   0  0  0  0  0  0
+    2.0047    1.9288   -1.0454 H   0  0  0  0  0  0
+    3.5959   -0.6991    5.5658 H   0  0  0  0  0  0
+    3.1732   -0.5480    3.8693 H   0  0  0  0  0  0
+    3.5411   -2.1253    4.5404 H   0  0  0  0  0  0
+    1.8898   -3.2903    6.1145 H   0  0  0  0  0  0
+    0.4420   -2.4582    6.6593 H   0  0  0  0  0  0
+    2.0178   -1.8994    7.1804 H   0  0  0  0  0  0
+    1.4913    0.4961    6.2557 H   0  0  0  0  0  0
+   -0.0924   -0.0738    5.7705 H   0  0  0  0  0  0
+    0.9626    0.6844    4.5915 H   0  0  0  0  0  0
+    3.8708    2.0470   -2.2251 H   0  0  0  0  0  0
+    6.1696    1.5283    2.6041 H   0  0  0  0  0  0
+    2.0912    2.5605    3.5351 H   0  0  0  0  0  0
+   -0.0630    0.7729   -5.9668 H   0  0  0  0  0  0
+   -0.2744    0.4933   -4.2690 H   0  0  0  0  0  0
+    0.7011   -0.6367   -5.2128 H   0  0  0  0  0  0
+    4.8471    3.4089   -4.0007 H   0  0  0  0  0  0
+    6.9097    2.6475    4.6769 H   0  0  0  0  0  0
+    2.8445    3.6610    5.5921 H   0  0  0  0  0  0
+    3.8775    3.3947   -6.2617 H   0  0  0  0  0  0
+    5.2461    3.7051    6.1666 H   0  0  0  0  0  0
+    2.3049    2.6121   -7.6229 H   0  0  0  0  0  0
+    0.6942   -1.9848    1.3756 H   0  0  0  0  0  0
+  1 23  1  0  0  0
+  1 29  1  0  0  0
+  2 19  2  0  0  0
+  3 20  1  0  0  0
+  3 61  1  0  0  0
+  4 27  2  0  0  0
+  5 34  1  0  0  0
+  5 85  1  0  0  0
+  6 12  1  0  0  0
+  6 15  1  0  0  0
+  6 18  1  0  0  0
+  6 86  1  0  0  0
+  7 19  1  0  0  0
+  7 22  1  0  0  0
+  7 59  1  0  0  0
+  8 21  1  0  0  0
+  8 27  1  0  0  0
+  8 64  1  0  0  0
+  9 10  1  0  0  0
+  9 11  1  0  0  0
+  9 13  1  0  0  0
+  9 41  1  0  0  0
+ 10 12  1  0  0  0
+ 10 14  1  0  0  0
+ 10 42  1  0  0  0
+ 11 15  1  0  0  0
+ 11 43  1  0  0  0
+ 11 44  1  0  0  0
+ 12 45  1  0  0  0
+ 12 46  1  0  0  0
+ 13 16  1  0  0  0
+ 13 47  1  0  0  0
+ 13 48  1  0  0  0
+ 14 17  1  0  0  0
+ 14 49  1  0  0  0
+ 14 50  1  0  0  0
+ 15 19  1  0  0  0
+ 15 51  1  0  0  0
+ 16 17  1  0  0  0
+ 16 52  1  0  0  0
+ 16 53  1  0  0  0
+ 17 54  1  0  0  0
+ 17 55  1  0  0  0
+ 18 20  1  0  0  0
+ 18 56  1  0  0  0
+ 18 57  1  0  0  0
+ 20 21  1  0  0  0
+ 20 58  1  0  0  0
+ 21 23  1  0  0  0
+ 21 60  1  0  0  0
+ 22 24  1  0  0  0
+ 22 25  1  0  0  0
+ 22 26  1  0  0  0
+ 23 62  1  0  0  0
+ 23 63  1  0  0  0
+ 24 65  1  0  0  0
+ 24 66  1  0  0  0
+ 24 67  1  0  0  0
+ 25 68  1  0  0  0
+ 25 69  1  0  0  0
+ 25 70  1  0  0  0
+ 26 71  1  0  0  0
+ 26 72  1  0  0  0
+ 26 73  1  0  0  0
+ 27 28  1  0  0  0
+ 28 30  2  0  0  0
+ 28 31  1  0  0  0
+ 29 32  2  0  0  0
+ 29 33  1  0  0  0
+ 30 34  1  0  0  0
+ 30 35  1  0  0  0
+ 31 36  2  0  0  0
+ 31 74  1  0  0  0
+ 32 37  1  0  0  0
+ 32 75  1  0  0  0
+ 33 38  2  0  0  0
+ 33 76  1  0  0  0
+ 34 39  2  0  0  0
+ 35 77  1  0  0  0
+ 35 78  1  0  0  0
+ 35 79  1  0  0  0
+ 36 39  1  0  0  0
+ 36 80  1  0  0  0
+ 37 40  2  0  0  0
+ 37 81  1  0  0  0
+ 38 40  1  0  0  0
+ 38 82  1  0  0  0
+ 39 83  1  0  0  0
+ 40 84  1  0  0  0
+M  CHG  1   6   1
+M  END
+> <s_m_entry_id>
+24
+
+> <s_m_entry_name>
+Nelfinavir2D_AIDS_64143.1
+
+> <PUBCHEM_COMPOUND_CID>
+64143
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+830
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+10
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcfB/OABAAAAAAAAAAAAAAAAAAAAAAAA8YMEAAAAAAACxQAAAHgQQCAAADbzl2AayB4PAAgiIAiFSEACCAAAkKBAIiJmODMgKdjKi1TOUcQhk1hG4mYe6yLCOgAABAAAYAAAAAAIAADAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(3S,4aS,8aS)-N-tert-butyl-2-[(2R,3R)-2-hydroxy-3-[(3-hydroxy-2-methyl-benzoyl)amino]-4-phenylsulfanyl-butyl]-3,4,4a,5,6,7,8,8a-octahydro-1H-isoquinoline-3-carboxamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(3S,4aS,8aS)-N-tert-butyl-2-[(2R,3R)-2-hydroxy-3-[[(3-hydroxy-2-methylphenyl)-oxomethyl]amino]-4-(phenylthio)butyl]-3,4,4a,5,6,7,8,8a-octahydro-1H-isoquinoline-3-carboxamide
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(3<I>S</I>,4<I>a</I><I>S</I>,8<I>a</I><I>S</I>)-<I>N</I>-<I>tert</I>-butyl-2-[(2<I>R</I>,3<I>R</I>)-2-hydroxy-3-[(3-hydroxy-2-methylbenzoyl)amino]-4-phenylsulfanylbutyl]-3,4,4<I>a</I>,5,6,7,8,8<I>a</I>-octahydro-1<I>H</I>-isoquinoline-3-carboxamide
+
+> <PUBCHEM_IUPAC_NAME>
+(3S,4aS,8aS)-N-tert-butyl-2-[(2R,3R)-2-hydroxy-3-[(3-hydroxy-2-methylbenzoyl)amino]-4-phenylsulfanylbutyl]-3,4,4a,5,6,7,8,8a-octahydro-1H-isoquinoline-3-carboxamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(3S,4aS,8aS)-N-tert-butyl-2-[(2R,3R)-3-[(2-methyl-3-oxidanyl-phenyl)carbonylamino]-2-oxidanyl-4-phenylsulfanyl-butyl]-3,4,4a,5,6,7,8,8a-octahydro-1H-isoquinoline-3-carboxamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(3S,4aS,8aS)-N-tert-butyl-2-[(2R,3R)-2-hydroxy-3-[(3-hydroxy-2-methyl-benzoyl)amino]-4-(phenylthio)butyl]-3,4,4a,5,6,7,8,8a-octahydro-1H-isoquinoline-3-carboxamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C32H45N3O4S/c1-21-25(15-10-16-28(21)36)30(38)33-26(20-40-24-13-6-5-7-14-24)29(37)19-35-18-23-12-9-8-11-22(23)17-27(35)31(39)34-32(2,3)4/h5-7,10,13-16,22-23,26-27,29,36-37H,8-9,11-12,17-20H2,1-4H3,(H,33,38)(H,34,39)/t22-,23+,26-,27-,29+/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+QAGYKUNXZHXKMR-HKWSIXNMSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+5.7
+
+> <PUBCHEM_EXACT_MASS>
+567.313078
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C32H45N3O4S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+567.8
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=C(C=CC=C1O)C(=O)NC(CSC2=CC=CC=C2)C(CN3CC4CCCCC4CC3C(=O)NC(C)(C)C)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=C(C=CC=C1O)C(=O)N[C@@H](CSC2=CC=CC=C2)[C@@H](CN3C[C@H]4CCCC[C@H]4C[C@H]3C(=O)NC(C)(C)C)O
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+567.313078
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+40
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+5
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  42  6
+15  19  5
+28  30  8
+28  31  8
+29  32  8
+29  33  8
+20  3  6
+30  34  8
+31  36  8
+32  37  8
+33  38  8
+34  39  8
+36  39  8
+37  40  8
+38  40  8
+21  8  6
+9  41  6
+
+> <chiral flag>
+1
+
+> <version>
+0
+
+> <s_m_Source_Path>
+E:\Projects\DeepLearning\Drug\CORONA\Ligand2D
+
+> <s_m_Source_File>
+Nelfinavir2D_AIDS_64143.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <PUBCHEM_CACTVS_TPSA>
+127
+
+> <chiral flag>
+1
+
+> <s_m_source_file>
+ligprep_10.maegz
+
+> <i_m_source_file_index>
+6
+
+> <i_lp_mmshare_version>
+44012
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXWMoW09IXSljKFtDSDNdKWMxQyg9TylbTkhdW0NAQEhdKFtDSDJdU2MyW2NIXVtjSF1bY0hdW2NIXVtjSF0yKVtDQEhdKFtPSF0pW0NIMl1OKFtDQEBIXShbQ0gyXTMpQyg9TylbTkhdQyhbQ0gzXSkoW0NIM10pW0NIM10pW0NIMl1bQ0BIXShbQ0BIXTM0KVtDSDJdW0NIMl1bQ0gyXVtDSDJdNA==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0194
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0175
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0019
+
+> <r_epik_State_Penalty>
+  0.0138
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.0313186
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+48.2667
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Nelfinavir2D_AIDS_64143-1
+
+> <s_m_job_name>
+ligprep_10
+
+> <r_lp_tautomer_probability>
+1
+
+> <s_m_subgroupid>
+ligprep_10-out1
+
+> <s_m_subgroup_title>
+ligprep_10-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

@@ -1,0 +1,90 @@
+
+====================================
+            Glide Script            
+====================================
+
+--------------------------------------------------------------------------------
+JobId          : Nik-0-5e870716
+Name           : glide-dock_XP_5
+Program        : Glide
+MMshareExec    : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Host           : Nik
+Dir            : C:\Users\Asus\Documents\Schrodinger\glide-dock_XP_5
+HostEntry      : localhost
+JobHost        : Nik
+JobDir         : C:\Users\Asus\AppData\Local\Schrodinger\tmp\glide-dock_XP_5
+JobMMshareExec : D:\Program Files\Schrodinger2018\mmshare-v4.4\bin\Windows-x64
+Commandline    : D:\Program Files\Schrodinger2018\glide glide-dock_XP_5.in -OVERWRITE -adjust -HOST localhost:8 -PROJ C:\Users\Asus\AppData\Local\Schrodinger\tmp\tproj28192a7512 -DISP appendinplace -VIEWNAME glide_docking_gui.DockingPanel -TMPLAUNCHDIR -ATTACHED
+StartTime      : 2020-04-03-14:21:18
+--------------------------------------------------------------------------------
+
+Running locally: False
+Max retries: 2
+Input file: glide-dock_XP_5.in
+
+Setting up docking job
+Separating ligands...
+[running at reduced cpu priority]
+Number of structures that are to be docked: 13
+Setting up Glide docking jobs...
+
+Running subjobs on hosts:
+  localhost (Max: 8)
+Number of jobs:       13
+Max retries per job:  2
+Max allowed failures: unlimited
+Run with -LOCAL:      False
+Verbosity:            normal
+
+Starting JobDJ...
+
+Keep one job on driver host: False
+JobDJ columns:
+  C: Number of completed subjobs
+  A: Number of active subjobs (e.g., submitted, running)
+  W: Number of waiting/pending subjobs
+
+ C  A  W | Activity  JobId  JobName  JobHost
+-- -- -- | --------- -----------------------
+ 0  1 12 | launched  Nik-0-5e87071a glide-dock_XP_5-0001 localhost [Nik]
+ 0  2 11 | launched  Nik-0-5e87071d glide-dock_XP_5-0002 localhost [Nik]
+ 0  3 10 | launched  Nik-0-5e870720 glide-dock_XP_5-0003 localhost [Nik]
+ 0  4  9 | launched  Nik-0-5e870722 glide-dock_XP_5-0004 localhost [Nik]
+ 0  5  8 | launched  Nik-0-5e870725 glide-dock_XP_5-0005 localhost [Nik]
+ 0  6  7 | launched  Nik-0-5e870729 glide-dock_XP_5-0006 localhost [Nik]
+ 0  7  6 | launched  Nik-0-5e87072d glide-dock_XP_5-0007 localhost [Nik]
+ 0  8  5 | launched  Nik-0-5e870732 glide-dock_XP_5-0008 localhost [Nik]
+ 1  7  5 | finished  Nik-0-5e870725 glide-dock_XP_5-0005 localhost [Nik]
+ 1  8  4 | launched  Nik-0-5e870760 glide-dock_XP_5-0009 localhost [Nik]
+ 2  7  4 | finished  Nik-0-5e870729 glide-dock_XP_5-0006 localhost [Nik]
+ 2  8  3 | launched  Nik-0-5e870882 glide-dock_XP_5-0010 localhost [Nik]
+ 3  7  3 | finished  Nik-0-5e870720 glide-dock_XP_5-0003 localhost [Nik]
+ 3  8  2 | launched  Nik-0-5e870956 glide-dock_XP_5-0011 localhost [Nik]
+ 4  7  2 | finished  Nik-0-5e87071a glide-dock_XP_5-0001 localhost [Nik]
+ 4  8  1 | launched  Nik-0-5e870c20 glide-dock_XP_5-0012 localhost [Nik]
+ 5  7  1 | finished  Nik-0-5e870722 glide-dock_XP_5-0004 localhost [Nik]
+ 5  8  0 | launched  Nik-0-5e870c2f glide-dock_XP_5-0013 localhost [Nik]
+ 6  7  0 | finished  Nik-0-5e870c20 glide-dock_XP_5-0012 localhost [Nik]
+ 7  6  0 | finished  Nik-0-5e870760 glide-dock_XP_5-0009 localhost [Nik]
+ 8  5  0 | finished  Nik-0-5e87072d glide-dock_XP_5-0007 localhost [Nik]
+ 9  4  0 | finished  Nik-0-5e870732 glide-dock_XP_5-0008 localhost [Nik]
+10  3  0 | finished  Nik-0-5e870956 glide-dock_XP_5-0011 localhost [Nik]
+11  2  0 | finished  Nik-0-5e870c2f glide-dock_XP_5-0013 localhost [Nik]
+12  1  0 | finished  Nik-0-5e870882 glide-dock_XP_5-0010 localhost [Nik]
+13  0  0 | finished  Nik-0-5e87071d glide-dock_XP_5-0002 localhost [Nik]
+
+All jobs have completed.
+
+13 of 13 job(s) succeeded; 0 job(s) failed.
+
+All jobs succeeded: 13 ligands done.
+Writing poses to glide-dock_XP_5_pv.maegz
+Combining log files to glide-dock_XP_5_subjobs.log
+Archiving subjob pose files in glide-dock_XP_5_subjob_poses.zip
+Archiving subjob input and log files in glide-dock_XP_5_subjobs.tar.gz
+Cleaning up...
+
+All Glide docking subjobs: Total CPU time = 14291 seconds (3 h 58 min 11 s)
+
+Finished at: Fri Apr  3 15:05:13 2020
+Total elapsed time for Glide script = 2633 seconds (43 min 53 s)
