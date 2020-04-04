@@ -102,3 +102,53 @@ In Canada, ritonavir is also available as a fixed-dose combination product with 
 Lopinavir is an antiretroviral protease inhibitor used in combination with other antiretrovirals in the treatment of HIV-1 infection.7 Lopinavir is marketed and administered exclusively in combination with ritonavir - this combination, first marketed by Abbott under the brand name Kaletra in 2000, is necessary due to lopinavir's poor oral bioavailability and extensive biotransformation. Ritonavir is a potent inhibitor of the enzymes responsible for lopinavir metabolism, and its co-administration "boosts" lopinavir exposure and improves antiviral activity.7 Like many other protease inhibitors (e.g. saquinavir, nelfinavir), lopinavir is a peptidomimetic molecule - it contains a hydroxyethylene scaffold that mimics the peptide linkage typically targeted by the HIV-1 protease enzyme but which itself cannot be cleaved, thus preventing the activity of the HIV-1 protease.5
 
 Lopinavir is currently under investigation in combination with ritonavir for the treatment of COVID-19 caused by SARS-CoV-2.8
+
+- ## 7-Darunavir
+  ![](https://www.drugbank.ca/structures/DB01264/image.svg)
+
+  
+Darunavir is a protease inhibitor used with other HIV protease inhibitor drugs as well as ritonavir for the effective management of HIV-1 infection.17 As a second-generation protease inhibitor, darunavir is designed to combat resistance to standard HIV therapy.2,5 It was initially approved by the FDA in 2006.17
+
+Darunavir is being studied as a possible treatment for SARS-CoV-2, the coronavirus responsible for COVID-19, due to in vitro evidence supporting its ability to combat this infection.14 Clinical trials are underway and are expected to conclude in August 2020.19
+
+- ## 8-Nelfinavir
+![](https://www.drugbank.ca/structures/DB00220/image.svg)
+
+
+Nelfinavir is a potent HIV-1 protease inhibitor. It is used in combination with other antiviral drugs in the treatment of HIV in both adults and children. Nelfinavir inhibits the HIV viral proteinase enzyme which prevents cleavage of the gag-pol polyprotein, resulting in noninfectious, immature viral particles.
+
+- ## 9-Atazanavir
+  ![](https://www.drugbank.ca/structures/DB01072/image.svg)
+
+  
+Atazanavir (formerly known as BMS-232632) is an antiretroviral drug of the protease inhibitor (PI) class. Like other antiretrovirals, it is used to treat infection of human immunodeficiency virus (HIV). Atazanavir is distinguished from other PIs in that it can be given once-daily (rather than requiring multiple doses per day) and has lesser effects on the patient's lipid profile (the amounts of cholesterol and other fatty substances in the blood). Like other protease inhibitors, it is used only in combination with other HIV medications. The U.S. Food and Drug Administration (FDA) approved atazanavir on June 20, 2003.
+
+- ## 10-Favipiravir 
+  ![](https://www.drugbank.ca/structures/DB12466/image.svg)
+
+  Discovered by Toyama Chemical Co., Ltd. in Japan, favipiravir is a modified pyrazine analog that was initially approved for therapeutic use in resistant cases of influenza.7,9 The antiviral targets RNA-dependent RNA polymerase (RdRp) enzymes, which are necessary for the transcription and replication of viral genomes.7,12,13
+
+Not only does favipiravir inhibit replication of influenza A and B, but the drug shows promise in the treatment of influenza strains that are resistant to neuramidase inhibitors, as well as avian influenza.9,19 Favipiravir has been investigated for the treatment of life-threatening pathogens such as Ebola virus, Lassa virus, and now COVID-19.
+
+- ## 11-Umifenovir
+  ![](https://www.drugbank.ca/structures/DB13609/image.svg)
+
+  Umifenovir is an indole-based, hydrophobic, dual-acting direct antiviral/host-targeting agent used for the treatment and prophylaxis of influenza and other respiratory infections.13 It has been in use in Russia for approximately 25 years and in China since 2006. Its invention is credited to a collaboration between Russian scientists from several research institutes 40-50 years ago, and reports of its chemical synthesis date back to 1993.13 Umifenovir's ability to exert antiviral effects through multiple pathways has resulted in considerable investigation into its use for a variety of enveloped and non-enveloped RNA and DNA viruses, including Flavivirus,2 Zika virus,3 foot-and-mouth disease,4 Lassa virus,6 Ebola virus,6 herpes simplex,8, hepatitis B and C viruses, chikungunya virus, reovirus, Hantaan virus, and coxsackie virus B5.13,9 This dual activity may also confer additional protection against viral resistance, as the development of resistance to umifenovir does not appear to be significant.13
+
+Umifenovir is currently being investigated as a potential treatment and prophylactic agent for COVID-19 caused by SARS-CoV2 infections in combination with both currently available and investigational HIV therapies.
+
+- ## 12-Chloroquine
+  ![](https://www.drugbank.ca/structures/DB00608/image.svg)
+
+  Chloroquine is an aminoquinolone derivative first developed in the 1940s for the treatment of malaria.4 It was the drug of choice to treat malaria until the development of newer antimalarials such as pyrimethamine, artemisinin, and mefloquine.17 Chloroquine and its derivative hydroxychloroquine have since been repurposed for the treatment of a number of other conditions including HIV, systemic lupus erythematosus, and rheumatoid arthritis.18
+
+Chloroquine was granted FDA Approval on 31 October 1949.20
+
+Due to COVID-19, the FDA has issued an emergency use authorization for hydroxychloroquine and chloroquine.22 This authorization allows for the unapproved use of these medications in light of a public health emergency.
+
+- ## 13-Triazavirin
+  ![](https://www.drugbank.ca/structures/DB15622/image.svg)
+
+
+Triazavirin is a guanine nucleotide analog antiviral originally developed in Russia that has shown efficacy against influenza A and B, including the H5N1 strain.1,2,4 It appears that Triazavirin has shown promise in reducing influenza disease severity and associated complications.5 Given the similarities between SARS-CoV-2 and H5N1, health officials are investigating Triazavirin as an option to combat SARS-CoV-2, the coronavirus responsible for COVID-19.
+
