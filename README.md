@@ -60,6 +60,9 @@ This is the pipeline for checking dock score for each ligand (the molecule of dr
 
 The above result shows the Remdesivir and TMC310911 are the best drug for corona virus treatment and chloroquine (Trump had suggested it!) and Triazavirin are the worst.
  - note: These results belong to the best site position which is obtained from SiteMap tools in schrodinger software. you can do these step for any other binding site position or other software.
+# How to use it for new drug(Ligand)
+ - 1- download 2d or 3d ligand and doing step 1 if needed
+ - 2- using proper grid in Grids Folder and doing setp 5 
 # Ranking Drug
 In this section, all the drugs used to treat covid-19  disease are described (drugbank) in order of their rank.
 - ## 1-Remdesivir
