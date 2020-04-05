@@ -1,0 +1,5 @@
+GRIDFILE   E:\Projects\DeepLearning\Drug\CORONA\Grids\glide-grid_N3\glide-grid_25.zip
+LIGANDFILES   E:\Projects\DeepLearning\Drug\CORONA\Ligand3D\Atazanavir3D_AIDS_148192.sdf, E:\Projects\DeepLearning\Drug\CORONA\Ligand3D\Brilacidin3D_newAntibiotic_25023695.sdf, E:\Projects\DeepLearning\Drug\CORONA\Ligand3D\Chloroquine3D_Malaria_2719.sdf, E:\Projects\DeepLearning\Drug\CORONA\Ligand3D\Darunavir3D_AIDS_DB01264.sdf, E:\Projects\DeepLearning\Drug\CORONA\Ligand3D\Favipiravir3D_Inflenza_492405.sdf, E:\Projects\DeepLearning\Drug\CORONA\Ligand3D\Galidesivir3D_Hepa_10445549.sdf, E:\Projects\DeepLearning\Drug\CORONA\Ligand3D\Lopinavir3D_AIDS_92727.sdf, E:\Projects\DeepLearning\Drug\CORONA\Ligand3D\Nelfinavir3D_AIDS_64143.sdf, E:\Projects\DeepLearning\Drug\CORONA\Ligand3D\Remdesivir3D_Ebola_121304016.sdf, E:\Projects\DeepLearning\Drug\CORONA\Ligand3D\Ritonavir3D_AIDS_DB00503.sdf, E:\Projects\DeepLearning\Drug\CORONA\Ligand3D\TMC310911_AIDS_DB15623.sdf, E:\Projects\DeepLearning\Drug\CORONA\Ligand3D\Triazavirin3D_influenza_DB15622.sdf, E:\Projects\DeepLearning\Drug\CORONA\Ligand3D\Umifenovir3D_Influenza_13609.sdf
+POSTDOCK_XP_DELE   0.5
+PRECISION   XP
+WRITE_XP_DESC   True
